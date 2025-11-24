@@ -19,6 +19,10 @@ I’m building from the shadows — engineering high-security backend systems, G
 - Founder of **three** active ventures  
 - Actively working toward **Australian Permanent Residency via Global Talent (858)**
 
+### Watch my contribution graph get eaten by the snake 🐍
+
+![Pawan snake gif](https://github.com/Shehanka/Shehanka/blob/output/github-contribution-grid-snake.svg)
+
 Every line of code, every build, every project I touch follows one idea:
 
 ### **Rise of the Unseen.**
